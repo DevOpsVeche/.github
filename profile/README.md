@@ -1,7 +1,7 @@
-## A plan
+## THE PLAN
 
 1. Create the organization
-2. Create a repository with plan memo
+2. Create the repository with THE PLAN
 3. `* * *`
 4. PROFIT!!!
 
